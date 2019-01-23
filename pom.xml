@@ -16,6 +16,13 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    
+    <developers>
+         <developer>
+             <name>Henrique Morin Naimaier</name>
+             <email>coubron@yahoo.com.br</email>
+         </developer>
+     </developers>
 
 
     <dependencies>
