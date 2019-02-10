@@ -59,4 +59,14 @@ public class Ingresso {
 		this.id = id;
 	}
 
+	public TipoDeIngresso getTipoDeIngresso() {
+		return tipoDeIngresso;
+	}
+
+	public void setTipoDeIngresso(TipoDeIngresso tipoDeIngresso) {
+		this.tipoDeIngresso = tipoDeIngresso;
+	}
+	
+	
+
 }
