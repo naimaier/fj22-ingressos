@@ -21,8 +21,8 @@ import br.com.caelum.ingresso.dao.SessaoDao;
 import br.com.caelum.ingresso.model.Carrinho;
 import br.com.caelum.ingresso.model.ImagemCapa;
 import br.com.caelum.ingresso.model.Sessao;
-import br.com.caelum.ingresso.model.SessaoForm;
 import br.com.caelum.ingresso.model.TipoDeIngresso;
+import br.com.caelum.ingresso.model.form.SessaoForm;
 import br.com.caelum.ingresso.rest.ImdbClient;
 import br.com.caelum.ingresso.validacao.GerenciadorDeSessao;
 

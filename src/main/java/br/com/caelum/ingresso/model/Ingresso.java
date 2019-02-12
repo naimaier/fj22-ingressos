@@ -66,7 +66,13 @@ public class Ingresso {
 	public void setTipoDeIngresso(TipoDeIngresso tipoDeIngresso) {
 		this.tipoDeIngresso = tipoDeIngresso;
 	}
-	
-	
+
+	public void setSessao(Sessao sessao) {
+		this.sessao = sessao;
+	}
+
+	public void setLugar(Lugar lugar) {
+		this.lugar = lugar;
+	}
 
 }

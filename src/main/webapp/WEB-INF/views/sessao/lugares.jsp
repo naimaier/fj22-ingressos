@@ -133,7 +133,7 @@
 
                 console.log(linhaId);
 
-                var tbody = document.querySelector("#tabela-ingressos>tbody");
+                var tbody = document.querySelector("#tabela-ingressos>tbody"); //seleciona a tabela onde serao exibidos os ingressos, que esta dentro do form
                 if (!checkbox.checked){
 
                     var index = tbody.rows.length;

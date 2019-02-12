@@ -1,4 +1,4 @@
-package br.com.caelum.ingresso.model;
+package br.com.caelum.ingresso.model.form;
 
 import java.time.LocalTime;
 
@@ -8,6 +8,9 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 import br.com.caelum.ingresso.dao.FilmeDao;
 import br.com.caelum.ingresso.dao.SalaDao;
+import br.com.caelum.ingresso.model.Filme;
+import br.com.caelum.ingresso.model.Sala;
+import br.com.caelum.ingresso.model.Sessao;
 
 public class SessaoForm {
 
